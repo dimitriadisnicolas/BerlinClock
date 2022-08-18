@@ -2,7 +2,7 @@
 
 class BerlinClock
 {
-    //Here is the class BerlinClock
+    //Here is the class BerlinClock by modifie 123
     private $clock;
     private $date;
     private $minute;

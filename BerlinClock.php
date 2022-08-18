@@ -3,5 +3,5 @@
 class BerlinClock
 {
     //Here is the class BerlinClock
-    //Hotfix branch
+    //Hotfix branch created
 }
